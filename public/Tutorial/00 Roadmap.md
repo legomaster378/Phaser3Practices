@@ -11,12 +11,32 @@
 
   - socket.io
 
-- Dev tools
+- understand the game design
+
+  - player satisfaction
+    - overcome challenges
+  - social activity
+    - competition
+    - corporation
+
+- Phaser coding
+
+  - use ES6 which has great:
+    - modules support, i.e., import and export, ...
+    - tooling support
+  - use TypeScript for more compiling support
+
+- Phaser Dev tools
 
   - visual studio code / nodejs / npm
   - IsoGenicEngine
   - Tiled
   - [phaser editor](https://phasereditor2d.com/)
+
+- Phaser Dev process
+
+  - name space, prototype in JavaScript
+  - organize the game state and assets boot -> preload
 
 - Books to read
   - HTML5 Games Novice to Ninja - SitePoint book covers lots of basic terms of HTML5 games like canvas, physics, ...
@@ -28,3 +48,19 @@
 ## More resources
 
 <https://phaser.io/learn/community-tutorials>
+
+<http://phaser.io/phaser3/devlog/85>
+
+## Boilerplate
+
+### Boot.js
+
+We enter the Boot-phase from the initial "Landing Page".
+
+Inside Boot.js, we use the reserved Phaser methods to initiate, upload, and create the Boot-phase; also, we load game assets and a loading screen (just a simple progression indicator), and further layout other game-level configurations. The Boot.js will initially scale, center and test the current device orientation. The Boot-phase script will then change to the "Preload.js" file content and Preloader-phase.
+
+Create the namespace in Boot.js
+
+```js
+var GAMEAPP = GAMEAPP || {};
+```

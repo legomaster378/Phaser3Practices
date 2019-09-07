@@ -2209,6 +2209,8 @@ Progress
 - TH 12 Level 195, King 39 Queen 62 Warden 26 as of 07/15/2019
 - TH 12 Level 197, King 42 Queen 64 Warden 29 as of 08/02/2019
 - TH 12 Level 199, King 43 Queen 65 Warden 30 as of 08/15/2019
+- TH 12 Level 201, King 47 Queen 65 Warden 34 as of 09/02/2019
+- TH 12 Level 201, King 47 Queen 65 Warden 35 as of 09/15/2019
 
 - Walls: level 11 x 81, level 10 x 218, level 9 x 1, as of 05/02/2019
 - Walls: level 11 x 95, level 10 x 205 as of 05/22/2019
@@ -2217,13 +2219,13 @@ Progress
 - Walls: level 11 x 174, level 10 x 126 as of 07/02/2019
 - Walls: level 11 x 221, level 10 x 79 as of 07/15/2019
 - Walls: level 12 x 14, level 11 x 286 as of 08/02/2019
-- Walls: level 13 x 9, level 12 x 58, level 11 x 233 as of 08/15/2019
+- Walls: level 13 x 10, level 12 x 60, level 11 x 230 as of 08/15/2019
+- Walls: level 13 x 10, level 12 x 190, level 11 x 100 as of 09/02/2019
+- Walls: level 13 x 10, level 12 x 236, level 11 x 54 as of 09/15/2019
 
 Priority list
 
 - Hero level up
-- Wall breakers to level 7 - ongoing
-- Earthquake spell
 
 Maximize the troops
 
@@ -2231,19 +2233,19 @@ Maximize the troops
 - x Archer lvl 8 Max
 - x Giant lvl 9 Max
 - Goblin lvl 7 Max, now 6
-- Wall breakers lvl 8 Max, now 6
+- x Wall breakers lvl 8 Max
 - x Balloon lvl 8 Max
 - x Wizard lvl 9 Max
 - x Healer lvl 5 Max
 - x Dragon lvl 7 Max
 - x PEKKA lvl 8 Max
-- Baby dragon lvl 6 Max, now 5
+- x Baby dragon lvl 6 Max
 - x Miner lvl 6 Max
 - x Electro Dragon lvl 3 Max
 - x Minion lvl 8 Max
 - x Hog rider lvl 9 Max
 - x Valkyrie lvl 7 Max
-- Golem lvl 9 Max, now 5
+- Golem lvl 9 Max, now 6
 - x Witch lvl 5 Max
 - x Lava Hound lvl 5 Max
 - x Bowler lvl 4 Max
@@ -2264,9 +2266,9 @@ Maximize the spells
 - x Freeze lvl 7 Max
 - Clone lvl 5 Max, now 2
 - x Poison lvl 6 Max
-- Earthquake lvl 5 Max, now 2
+- x Earthquake lvl 5 Max
 - x Haste lvl 5 Max
-- Skeleton lvl 6 Max, now 1
+- Skeleton lvl 6 Max, now 3
 - x Bat lvl 5 Max
 
 ### warshong
@@ -2278,12 +2280,17 @@ Maximize the spells
 - TH 12 Level 173, King 35 Queen 56 Warden 20 as of 06/16/2019
 - TH 12 Level 175, King 36 Queen 60 Warden 20 as of 07/02/2019
 - TH 12 Level 179, King 36 Queen 63 Warden 22 as of 08/09/2019
+- TH 12 Level 181, King 40 Queen 65 Warden 28 as of 09/02/2019
+- TH 12 Level 181, King 40 Queen 65 Warden 30 as of 09/15/2019
 
 - Walls: level 12 x 3, level 11 x 134, level 10 x 163 as of 05/02/2019
 - Walls: level 12 x 3, level 11 x 165, level 10 x 132 as of 05/22/2019
 - Walls: level 12 x 3, level 11 x 235, level 10 x 62 as of 06/16/2019
 - Walls: level 12 x 3, level 11 x 278, level 10 x 19 as of 07/02/2019
 - Walls: level 12 x 53, level 11 x 247 as of 08/02/2019
+- Walls: level 12 x 75, level 11 x 225 as of 08/15/2019
+- Walls: level 12 x 147, level 11 x 153 as of 09/02/2019
+- Walls: level 12 x 200, level 11 x 100 as of 09/15/2019
 
 Maximize the troops
 
@@ -2301,17 +2308,17 @@ Maximize the troops
 - x Miner lvl 6 Max
 - x Electro Dragon lvl 3 Max
 - x Minion lvl 8 Max
-- Hog rider lvl 9 Max, now 6
+- Hog rider lvl 9 Max, now 7
 - Valkyrie lvl 7 Max, now 6
-- Golem lvl 8 Max, now 7
-- Witch lvl 5 Max, now 3
-- Lava Hound lvl 5 Max, now 4
+- Golem lvl 9 Max, now 7
+- x Witch lvl 5 Max
+- x Lava Hound lvl 5 Max
 - x Bowler lvl 4 Max
-- Ice golem lvl 5 Max, now 2
+- x Ice golem lvl 5 Max
 
 Seige machine
 
-- x Wall wrecker 3 Max, now 3
+- x Wall wrecker 3 Max
 - Battle blimp 3 Max, now 1
 - x Stone slammer 3 Max
 
@@ -2340,6 +2347,8 @@ Maximize the spells
 - TH 11 Level 161, King 35 Queen 50 Warden 14 as of 07/22/2019
 - TH 11 Level 162, King 36 Queen 50 Warden 15 as of 08/02/2019
 - TH 11 Level 164, King 38 Queen 50 Warden 16 as of 08/15/2019
+- TH 12 Level 166, King 43 Queen 50 Warden 19 as of 09/02/2019
+- TH 12 Level 167, King 43 Queen 50 Warden 19 as of 09/15/2019
 
 - Walls: level 11 x 89, level 10 x 211 as of 05/02/2019
 - Walls: level 11 x 100, level 10 x 200 as of 05/22/2019
@@ -2349,47 +2358,50 @@ Maximize the spells
 - Walls: level 11 x 189, level 10 x 111 as of 07/22/2019
 - Walls: level 11 x 296, level 10 x 4 as of 08/02/2019
 - Walls: level 12 x 60, level 11 x 240 as of 08/15/2019
+- Walls: level 12 x 233, level 11 x 67 as of 09/02/2019
+- Walls: level 12 x 276, level 11 x 24 as of 09/15/2019
 
 Priority list
 
 - Heroes
-- Skeleton to level 3 - ongoing
-- Dragon to level 6
+- Miner to level 6
+- Witch to level 5 - ongoing
+- Freeze to level 7
 
 Maximize the troops
 
 - x Barbarian lvl 8 Max
 - x Archer lvl 8 Max
-- x Giant lvl 8 TH11 Max
+- Giant lvl 9 Max, now 8
 - Goblin lvl 7 Max, now 6
-- x Wall breakers lvl 7 TH11 Max
-- x Balloon lvl 7 TH11 Max
-- x Wizard lvl 8 TH11 Max
+- Wall breakers lvl 8 Max, now 7
+- x Balloon lvl 8 Max
+- Wizard lvl 9 Max, now 8
 - x Healer lvl 5 Max
-- Dragon lvl 6 TH11 Max, now 5
-- x PEKKA lvl 7 TH11 Max
-- x Baby dragon lvl 5 TH11 Max
-- x Miner lvl 5 Max
-- x Electro Dragon lvl 2 TH11 Max
-- x Minion lvl 7 TH11 Max
-- x Hog rider lvl 7 TH11 Max
-- x Valkyrie lvl 6 TH11 Max
-- Golem lvl 7 TH11 Max, now 6
-- x Witch lvl 4 TH11 Max
-- x Lava Hound lvl 4
-- x Bowler lvl 3 TH11 Max
-- x Ice golem lvl 3 TH11 Max
+- Dragon lvl 7 Max, now 6
+- PEKKA lvl 8 Max, now 7
+- Baby dragon lvl 6 Max, now 5
+- Miner lvl 6 Max, now 5
+- x Electro Dragon lvl 3 Max
+- Minion lvl 8 Max, now 7
+- Hog rider lvl 9 Max, now 7
+- Valkyrie lvl 7 Max, now 6
+- Golem lvl 9 Max, now 7
+- Witch lvl 5 Max, now 4
+- Lava Hound lvl 5 Max, now 4
+- x Bowler lvl 4 Max
+- Ice golem lvl 5 Max, now 3
 
 Maximize the spells
 
 - x Lighting lvl 7 Max
 - x Healing lvl 7 Max
-- x Rage lvl 5 TH11 Max
+- x Rage lvl 6 Max
 - x Jump lvl 3 Max
-- x Freeze lvl 6 TH11 Max
+- Freeze lvl 7 Max, now 6
 - Clone lvl 5 Max, now 2
-- x Poison lvl 5 TH11 Max
+- x Poison lvl 6 Max
 - x Earthquake lvl 5 Max
-- x Haste lvl 5 TH11 Max
-- Skeleton lvl 4 TH11 Max, now 2
-- Bat lvl 4 TH11 Max, now 1
+- x Haste lvl 5 Max
+- Skeleton lvl 6 Max, now 4
+- Bat lvl 5 Max, now 2
