@@ -2251,7 +2251,7 @@ Maximize the troops
 - x Bowler lvl 4 Max
 - x Ice golem lvl 5 Max
 
-Seige machine
+Siege machine
 
 - x Wall wrecker 3 Max
 - Battle blimp 3 Max, now 2
@@ -2273,15 +2273,15 @@ Maximize the spells
 
 ### warshong
 
-- TH 12 Level 161, King 32 Queen 39 Warden 20 as of 03/23/2019
-- TH 12 Level 169, King 35 Queen 48 Warden 20 as of 05/07/2019
-- TH 12 Level 171, King 35 Queen 52 Warden 20 as of 05/22/2019
-- TH 12 Level 172, King 35 Queen 54 Warden 20 as of 06/02/2019
-- TH 12 Level 173, King 35 Queen 56 Warden 20 as of 06/16/2019
-- TH 12 Level 175, King 36 Queen 60 Warden 20 as of 07/02/2019
-- TH 12 Level 179, King 36 Queen 63 Warden 22 as of 08/09/2019
-- TH 12 Level 181, King 40 Queen 65 Warden 28 as of 09/02/2019
-- TH 12 Level 181, King 40 Queen 65 Warden 30 as of 09/15/2019
+- TH 12 Level 161, King 32 Queen 39 Warden1 20 as of 03/23/2019
+- TH 12 Level 169, King 35 Queen 48 Warden1 20 as of 05/07/2019
+- TH 12 Level 171, King 35 Queen 52 Warden1 20 as of 05/22/2019
+- TH 12 Level 172, King 35 Queen 54 Warden1 20 as of 06/02/2019
+- TH 12 Level 173, King 35 Queen 56 Warden1 20 as of 06/16/2019
+- TH 12 Level 175, King 36 Queen 60 Warden1 20 as of 07/02/2019
+- TH 12 Level 179, King 36 Queen 63 Warden1 22 as of 08/09/2019
+- TH 12 Level 181, King 40 Queen 65 Warden1 28 as of 09/02/2019
+- TH 12 Level 181, King 40 Queen 65 Warden1 30 as of 09/15/2019
 
 - Walls: level 12 x 3, level 11 x 134, level 10 x 163 as of 05/02/2019
 - Walls: level 12 x 3, level 11 x 165, level 10 x 132 as of 05/22/2019
