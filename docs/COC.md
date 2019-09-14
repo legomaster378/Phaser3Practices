@@ -2058,7 +2058,7 @@ There are lots of ground defensing systems, but for air, there are not that much
 
 Electro dragon has a special attack - chain lightening, it can hit up to 5 building connected. Chain lightening damage dealt will decrease 20% for chained buildings. The buildings must be at most one tile apart. If they are two tiles apart, chain lightening will be prevented.
 
-To attack a higher level TH12 with very high ground DpS dealing defences and very high level walls, miner or bowler often cannot get the town hall if heavy defence is around. If you are aiming at 3 stars just want to 2 star your enemy clan's top war rank players, electro dragon is a solid strategy. Focus on taking down the town hall and get a 50% more destruction rate with electro dragons is not that hard and easier than other ground attacking strategies.
+To attack a higher level TH12 with very high ground DpS dealing defences and very high level walls, miner or bowler often cannot get the town hall if heavy defence is around. If you are not aiming at 3 stars just want to 2 star your enemy clan's top war rank players, electro dragon is a solid strategy. Focus on taking down the town hall and get a 50% more destruction rate with electro dragons is not that hard and easier than other ground attacking strategies.
 
 If the war base is a distributed design with trash buildings spread out all over the map, it's not a good idea to use electro dragon as the electro dragon loses the chain lightening power and takes more time to destroy every building in its range, also sometime it will fly away from the core to attack outside trash buildings, unless you use some troops to funnel timely or in advance.
 
@@ -2210,7 +2210,7 @@ Progress
 - TH 12 Level 197, King 42 Queen 64 Warden 29 as of 08/02/2019
 - TH 12 Level 199, King 43 Queen 65 Warden 30 as of 08/15/2019
 - TH 12 Level 201, King 47 Queen 65 Warden 34 as of 09/02/2019
-- TH 12 Level 201, King 47 Queen 65 Warden 35 as of 09/15/2019
+- TH 12 Level 201, King 48 Queen 65 Warden 37 as of 09/15/2019
 
 - Walls: level 11 x 81, level 10 x 218, level 9 x 1, as of 05/02/2019
 - Walls: level 11 x 95, level 10 x 205 as of 05/22/2019
@@ -2268,7 +2268,7 @@ Maximize the spells
 - x Poison lvl 6 Max
 - x Earthquake lvl 5 Max
 - x Haste lvl 5 Max
-- Skeleton lvl 6 Max, now 3
+- Skeleton lvl 6 Max, now 4
 - x Bat lvl 5 Max
 
 ### warshong
@@ -2348,7 +2348,7 @@ Maximize the spells
 - TH 11 Level 162, King 36 Queen 50 Warden 15 as of 08/02/2019
 - TH 11 Level 164, King 38 Queen 50 Warden 16 as of 08/15/2019
 - TH 12 Level 166, King 43 Queen 50 Warden 19 as of 09/02/2019
-- TH 12 Level 167, King 43 Queen 50 Warden 19 as of 09/15/2019
+- TH 12 Level 167, King 44 Queen 51 Warden 20 as of 09/15/2019
 
 - Walls: level 11 x 89, level 10 x 211 as of 05/02/2019
 - Walls: level 11 x 100, level 10 x 200 as of 05/22/2019
